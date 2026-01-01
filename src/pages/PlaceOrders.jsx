@@ -15,7 +15,7 @@ const PlaceOrders = () => {
   const navigate=useNavigate();
 
   return (
-    <div className="flex flex-col sm:flex-row justify-between pt-5 sm:pt-8 min-h-[80vh] border-t">
+    <div className="flex flex-col sm:flex-row justify-between pt-5 sm:pt-8 min-h-[80vh] border-t border-gray-400">
       {/* Left side  */}
       <div className="flex flex-col gap-4 w-full sm:w-[480px]">
         <div className="text-xl sm:text-2xl">

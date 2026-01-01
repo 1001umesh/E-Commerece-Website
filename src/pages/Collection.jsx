@@ -127,7 +127,7 @@ const Collection = () => {
               <input
                 className="w-3 cursor-pointer"
                 type="checkbox"
-                value={"kid"}
+                value={"kids"}
                 onChange={toggleCategory}
               />
               Kids

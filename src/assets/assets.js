@@ -89,8 +89,10 @@ import easyReturn from './easyReturn.png'
 import cSupport from './cSupport.png'
 import homepng from './homepng.avif'
 import contactus from './contactus.avif'
+import homeimage from './homeimage.jpg'
  export const assets={
     logo,
+    homeimage,
 find_icon,
 profile_icon,
 cart,
